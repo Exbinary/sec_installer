@@ -1,4 +1,5 @@
 # sec_installer
+###### [Instrucciones en Español  -  [README_es.md](https://github.com/Exbinary/sec_installer/blob/main/README_es.md)]
 This python script automates installation of common pentesting tools from packet managers apt/pacman/dnf and GitHub.
 
 You can choose to install:
